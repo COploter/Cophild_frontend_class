@@ -1,0 +1,21 @@
+#signupdiv{
+    background-color: blue;
+    color: black;
+    height: 100vh;
+    text-align: left;
+    align-content: center;
+
+}
+#divsignup{
+    background-color: white;
+    justify-content: left;
+    width: 450px;
+    height: 700px;
+    margin-left: 75px;
+    text-align: center;
+    align-content: first baseline;
+   
+
+
+
+}

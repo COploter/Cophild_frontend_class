@@ -1,0 +1,23 @@
+ul{
+    background-color: rgb(234, 109, 192);
+    padding: 15px;
+    
+}
+
+ul li{
+
+    list-style: none;
+    display: inline-block;
+    
+}
+ul li a {
+
+    text-decoration: none;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+
+}
+.twitter_img{
+    margin-right: 500px;
+}

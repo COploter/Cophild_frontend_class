@@ -1,0 +1,30 @@
+.logindiv{
+    background-color: grey;
+    color: black;
+    text-align: center;
+    align-content: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.divlogin{
+    background-color: white;
+    width: 450px;
+    height: 400px;
+    text-align: center;
+    align-content: center;
+
+}
+#button{
+    background-color: lightblue;
+    width: 15vh;
+}
+.text1{
+    width: 200px;
+}
+.text2{
+    width: 200px;
+}

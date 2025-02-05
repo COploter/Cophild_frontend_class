@@ -1,0 +1,134 @@
+h1{
+    font-size: 100; 
+    color: aqua; 
+    background-color: yellowgreen;
+    width: 500px;
+    height: 500px;
+    align-content: center;
+    text-align: center;
+    
+
+}
+.first{
+    font-size: 100;
+    color: chartreuse;
+    background-color: violet;
+    width: 300px;
+    height: 300px;
+    align-content: right;
+    text-align: justify;
+}
+
+#second{
+    font-size: 50;
+    color: hotpink;
+    background-color: aquamarine;
+    width: 750px;
+    height: 250px;
+    text-align: end;
+    align-content: first baseline;
+}
+.guy{
+   border: 10px solid pink;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    align-content: center;
+}
+.dog{
+    border-top: 17px solid indigo;
+    border-left: 17px dashed greenyellow;
+    border-right: 17px inset lightblue;
+    border-bottom: 17px groove red;
+
+}
+#text{
+    border-top: 25px outset black;
+    border-bottom: 10px inset mediumslateblue;
+    font: 25px;
+    color: rosybrown;
+    
+}
+.list{
+    border: 10px inset royalblue;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    align-content: center;
+}
+
+#TGIF{
+    border: 10px inset black;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    align-content: center;
+    /* border-radius: 40px 0px 50px 15px; */
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+#perfect{
+    border: 25px outset black;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    align-content: center;
+    border-radius: 300px;
+    font-size: 75px;
+}
+#perfect:hover{
+    background: cyan;
+    color: rgb(162, 54, 117);
+    transition: 3s 2.5s;
+    font-size: 150px;
+    margin-left: 300px;
+    
+
+}
+#chekins{
+    border: 2px solid blue;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    align-content: center;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+#BOX{
+    border: 5px solid black;
+    width: 450px;
+    height: 450px;
+    text-align: center;
+    align-content: center;
+    background-color: pink;
+
+} 
+#BOX2{
+    border: 5px inset red;
+    width: 450px;
+    height: 450px;
+    text-align: center;
+    align-content: center;
+    background-color: blue;
+}
+#BOX3{
+    border: 5px solid purple;
+    width: 450px;
+    height: 450px;
+    text-align: center;
+    align-content: center;
+    background-color: green;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: cyan;
+    height: 100vh; 
+    align-items: center;
+}
